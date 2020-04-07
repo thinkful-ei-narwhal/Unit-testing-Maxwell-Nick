@@ -1,5 +1,6 @@
 import React from 'react';
 import List from './List';
+import STORE from './store';
 import './appStyles.css'
 
 function App(props) {
